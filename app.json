@@ -1,5 +1,6 @@
 {
-    "RubberInds":{
+    "RubberInds":
+    {
         "2012-13": {
              "No of Factories": 1291 ,
              "Fixed Capital": 7557 ,
@@ -112,5 +113,121 @@
              "Depreciation": 1914 ,
              "Net Value Added": 6769 
           }
+    },
+    
+      "Mfg_of_other_non_metallic_mineral_Products":{
+         "2012-13": {
+             "No of Factories": 2494 ,
+             "Fixed Capital": 16569 ,
+             "Working Capital": 3968 ,
+             "Invested Capital": 22551 ,
+             "No of Workers": 84508 ,
+             "No of Employees": 105878 ,
+             "Wages to Workers": 75773 ,
+             "Total Emoluments of Employees": 1557 ,
+             "Fuels Consumed": 563470 ,
+             "Materials Consumed": 11848 ,
+             "Total Input": 21076 ,
+             "Total Output": 26008 ,
+             "Depreciation": 1548 ,
+             "Net Value Added": 3384 
+         },
+          "2013-14": {
+             "No of Factories": 2430 ,
+             "Fixed Capital": 17574 ,
+             "Working Capital": 4599 ,
+             "Invested Capital": 22687 ,
+             "No of Workers": 84742 ,
+             "No of Employees": 105295 ,
+             "Wages to Workers": 84822 ,
+             "Total Emoluments of Employees": 1714 ,
+             "Fuels Consumed": 6164 ,
+             "Materials Consumed": 10503 ,
+             "Total Input": 19432 ,
+             "Total Output": 24584 ,
+             "Depreciation": 1606 ,
+             "Net Value Added": 3546 
+          },
+          "2014-15": {
+             "No of Factories": 2562 ,
+             "Fixed Capital": 26140 ,
+             "Working Capital": 3800 ,
+             "Invested Capital": 32523 ,
+             "No of Workers": 95146 ,
+             "No of Employees": 120333 ,
+             "Wages to Workers": 99864 ,
+             "Total Emoluments of Employees": 2123 ,
+             "Fuels Consumed": 9012 ,
+             "Materials Consumed": 14123 ,
+             "Total Input": 27220 ,
+             "Total Output": 33306 ,
+             "Depreciation": 1804 ,
+             "Net Value Added": 4282 
+          },
+          "2015-16": {
+             "No of Factories": 2655 ,
+             "Fixed Capital": 23034 ,
+             "Working Capital": -1623 ,
+             "Invested Capital": 29254 ,
+             "No of Workers": 88916 ,
+             "No of Employees": 113853 ,
+             "Wages to Workers": 1056 ,
+             "Total Emoluments of Employees": 2203 ,
+             "Fuels Consumed": 7278 ,
+             "Materials Consumed": 12801 ,
+             "Total Input": 23744 ,
+             "Total Output": 30746 ,
+             "Depreciation": 2143 ,
+             "Net Value Added": 4858 
+          },
+          "2016-17": {
+             "No of Factories": 2785 ,
+             "Fixed Capital": 25504 ,
+             "Working Capital": 3460 ,
+             "Invested Capital": 32749 ,
+             "No of Workers": 102573 ,
+             "No of Employees": 134069 ,
+             "Wages to Workers": 1346 ,
+             "Total Emoluments of Employees": 3009 ,
+             "Fuels Consumed": 7876 ,
+             "Materials Consumed": 17208 ,
+             "Total Input": 33208 ,
+             "Total Output": 42192 ,
+             "Depreciation": 2360 ,
+             "Net Value Added": 6623 
+          },
+          "2017-18": {
+             "No of Factories": 2777 ,
+             "Fixed Capital": 27461 ,
+             "Working Capital": 5251 ,
+             "Invested Capital": 35588 ,
+             "No of Workers": 110557 ,
+             "No of Employees": 141320 ,
+             "Wages to Workers": 1570 ,
+             "Total Emoluments of Employees": 3225 ,
+             "Fuels Consumed": 10046 ,
+             "Materials Consumed": 19265 ,
+             "Total Input": 35169 ,
+             "Total Output": 44343 ,
+             "Depreciation": 2360 ,
+             "Net Value Added": 6813 
+          },
+          "2018-19": {
+             "No of Factories": 2863 ,
+             "Fixed Capital": 28277 ,
+             "Working Capital": 5264 ,
+             "Invested Capital": 36941 ,
+             "No of Workers": 106218 ,
+             "No of Employees": 136453 ,
+             "Wages to Workers": 1669 ,
+             "Total Emoluments of Employees": 3381 ,
+             "Fuels Consumed": 10032 ,
+             "Materials Consumed": 21204 ,
+             "Total Input": 38130 ,
+             "Total Output": 47459 ,
+             "Depreciation": 2333 ,
+             "Net Value Added": 6996 
+          }
+      
     }
 }

@@ -8,6 +8,7 @@ app.use(cors())
 
 app.get("/api",(req,res)=>{
    res.send(apidata)
+   console.log(apidata["Mfg_of_other_non_metallic_mineral_Products"])
    
     
 })
